@@ -1,0 +1,50 @@
+1	14:17:04	Realtime started	
+1	14:37:24	Disconnected	
+1	14:37:27	Realtime started	
+1	17:51:32	Disconnected	
+1	17:51:32	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 01 (192.168.254.4) : The camera has stopped communicating. 002 - code 09 - camera 02 (192.168.254.10) : The camera has stopped communicating. 003 - code 09 - camera 03 (192.168.254.14) : The camera has stopped communicating. 004 - code 09 - camera 04 (192.168.254.9) : The camera has stopped communicating. 005 - code 09 - camera 05 (192.168.254.15) : The camera has stopped communicating. 006 - code 09 - camera 06 (192.168.254.7) : The camera has stopped communicating. 007 - code 09 - camera 07 (192.168.254.6) : The camera has stopped communicating. 008 - code 09 - camera 08 (192.168.254.11) : The camera has stopped communicating.
+1	17:51:46	Realtime started	
+1	17:52:13	Recalibration recommended	Cameras 1, 2, 3 and 5 have residuals (3.5, 4.2, 3.1 and 5.0) exceeding the warning level.
+1	17:52:14	Rigid body identification results	Rigid body identification results:  3 successful  0 failed
+1	17:52:14	File created	
+1	18:24:31	File closed	
+1	18:24:33	Realtime started	
+1	18:24:59	Recalibration recommended	Cameras 1, 2, 3 and 5 have residuals (4.4, 4.4, 3.8 and 4.2) exceeding the warning level.
+1	18:24:59	Rigid body identification results	Rigid body identification results:  3 successful  0 failed
+1	18:24:59	File created	
+1	18:26:28	File closed	
+1	18:26:30	Realtime started	
+1	18:26:56	Recalibration recommended	Cameras 1, 2, 3 and 5 have residuals (4.3, 4.4, 3.7 and 4.4) exceeding the warning level.
+1	18:26:56	Rigid body identification results	Rigid body identification results:  3 successful  0 failed
+1	18:26:56	Not all gaps were filled	One gap out of 9 was filled. The other 8 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	18:26:56	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "TMS_Coil0": in 133 of the 2371 frames where at least three points were present Body "HEAD": in 22 of the 2400 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	18:26:56	File created	
+1	18:28:03	File closed	
+1	18:28:14	Realtime started	
+1	18:31:07	Disconnected	
+1	18:31:09	Realtime started	
+1	18:31:35	Recalibration recommended	Cameras 1, 2, 3 and 5 have residuals (3.9, 5.2, 3.5 and 4.8) exceeding the warning level.
+1	18:31:35	Rigid body identification results	Rigid body identification results:  1 successful  1 failed
+1	18:31:35	File created	
+1	18:32:18	File closed	
+1	18:32:20	Realtime started	
+1	18:32:46	Recalibration recommended	Cameras 1, 2, 3 and 5 have residuals (4.0, 5.2, 3.5 and 4.8) exceeding the warning level.
+1	18:32:46	Rigid body identification results	Rigid body identification results:  1 successful  1 failed
+1	18:32:46	File created	
+1	18:33:30	File closed	
+1	18:34:53	Realtime started	
+1	18:35:46	Disconnected	
+1	18:35:48	Realtime started	
+1	18:38:19	Recalibration recommended	Cameras 1, 2, 3 and 5 have residuals (4.0, 4.8, 3.5 and 4.7) exceeding the warning level.
+1	18:38:19	Not all gaps were filled	81 gaps out of 82 were filled. One gap was longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	18:38:19	Rigid body identification results	Rigid body identification results:  3 successful  0 failed
+1	18:38:19	Not all gaps were filled	2 gaps out of 33 were filled. The other 31 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	18:38:19	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "TMS_Coil0": in 96 of the 14734 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	18:38:19	File created	
+1	18:39:32	File closed	
+1	18:39:33	Realtime started	
+1	18:40:12	Recalibration recommended	Cameras 1, 2, 3 and 5 have residuals (4.1, 4.8, 3.7 and 4.7) exceeding the warning level.
+1	18:40:12	Rigid body identification results	Rigid body identification results:  3 successful  0 failed
+1	18:40:12	Not all gaps were filled	One gap out of 8 was filled. The other 7 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	18:40:12	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "TMS_Coil0": in 26 of the 3916 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	18:40:12	File created	

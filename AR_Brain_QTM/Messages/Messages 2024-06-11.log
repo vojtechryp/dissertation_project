@@ -1,0 +1,16 @@
+1	14:39:57	File closed	
+1	14:39:59	Realtime started	
+1	14:41:18	Recalibration recommended	Cameras 1, 2, 3 and 5 have residuals (3.8, 5.3, 3.9 and 6.2) exceeding the warning level.
+1	14:41:18	Rigid body identification results	Rigid body identification results:  3 successful  0 failed
+1	14:41:18	Not all gaps were filled	The gap was not filled. The gap was longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	14:41:18	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "HEAD": in 15 of the 8556 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	14:41:18	File created	
+1	14:41:24	File closed	
+1	14:41:29	Realtime started	
+1	14:45:06	Disconnected	
+1	14:45:08	Realtime started	
+1	14:46:25	Disconnected	
+1	14:46:54	Realtime started	
+1	15:07:44	Disconnected	
+1	15:08:00	Realtime started	
+1	18:36:42	Dialogs must be closed before opening another measurement	
